@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2630168426031428219, guid: 80e4aaacd0d308c418ae8839a5a0c662, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 3444106456557512897, guid: 80e4aaacd0d308c418ae8839a5a0c662, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -682,6 +686,10 @@ PrefabInstance:
     - target: {fileID: 2630168426031428219, guid: 80e4aaacd0d308c418ae8839a5a0c662, type: 3}
       propertyPath: m_Name
       value: Tile2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2630168426031428219, guid: 80e4aaacd0d308c418ae8839a5a0c662, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 3444106456557512897, guid: 80e4aaacd0d308c418ae8839a5a0c662, type: 3}
       propertyPath: m_RootOrder
